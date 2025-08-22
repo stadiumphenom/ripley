@@ -1,0 +1,4 @@
+[
+  { "match": ["anchor", "ignite"], "prime": "⚡" },
+  { "match": ["transmit"], "prime": "☽" }
+]
